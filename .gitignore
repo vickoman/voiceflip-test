@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Pytest
+.pytest_cache/
+
+# Archivos locales (no para el repo)
+NOTES.md
+specs/REVIEW_*.md

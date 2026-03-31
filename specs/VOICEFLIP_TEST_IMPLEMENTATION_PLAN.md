@@ -1,9 +1,7 @@
 # Plan de Implementacion
 
-> Generado desde la fase de Investigacion RPI. Ajustado segun feedback del review.
+> Generado desde la fase de Investigacion RPI.
 > Fuente: `specs/RESEARCH_RESILIENT_PIPELINE.md`
-> Ultimo review: `specs/REVIEW_VOICEFLIP_TEST_IMPLEMENTATION_PLAN.md`
-> Iteracion de ajuste: 1
 > Para ejecutar: `/rpi-implement specs/VOICEFLIP_TEST_IMPLEMENTATION_PLAN.md`
 
 ## INSTRUCCIONES PARA LA SIGUIENTE SESION
