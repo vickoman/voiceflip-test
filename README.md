@@ -54,5 +54,4 @@ uv run pytest tests/ -v
 ```
 
 ## Video Walkthrough
-
-[Enlace al video walkthrough](TODO)
+https://www.loom.com/share/4c3eb9c41399465cbc604f37ff6fab8b
